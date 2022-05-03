@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 43912a4b709e3c845bf569ed708147a8
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Lexend Exa
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 62c794e140e96d249af60cd61e907187, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
